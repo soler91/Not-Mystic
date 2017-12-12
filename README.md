@@ -1,5 +1,7 @@
 # Not-Mystic
 
+![](https://cdn.discordapp.com/attachments/205176170596007936/389450791087374338/image.jpg)
+
 ## Required Datacenter (NA):
 https://pinkie.tera.zone/DataCenter_Final_USA-mod.dat
 
